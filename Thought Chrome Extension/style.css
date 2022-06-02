@@ -1,0 +1,16 @@
+body {
+    width: 350px;
+    height: auto;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+#thoughtelement{
+    display: inner-flex;
+    margin: 70px 80px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
